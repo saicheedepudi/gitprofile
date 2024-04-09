@@ -9,7 +9,7 @@ const CONFIG = {
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
    * for example your repository is at https://github.com/saicheedepudi/portfolio, then set base to '/portfolio/'.
    */
-  base: '/gitprofile/',
+  base: '/portfolio/',
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -97,18 +97,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Southern Illinois University',
+      position: 'Research Assistant',
+      from: 'Aug 2021',
+      to: 'Dec 2022',
+      companyLink: 'https://siu.edu',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Opsramp',
+      position: 'Software Product Developer - Data Science',
+      from: 'May 2018',
+      to: 'July 2021',
+      companyLink: 'https://opsramp.com',
     },
   ],
   certifications: [
@@ -121,16 +121,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Southern Illinois University',
+      degree: 'MS',
+      from: '2021',
+      to: '2022',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Andhra University',
+      degree: 'B.Tech',
+      from: '2014',
+      to: '2018',
     },
   ],
   publications: [
