@@ -45,8 +45,8 @@ const CONFIG = {
           description:
             'Abstract—The Web creates excellent opportunities for businesses to provide personalized online services to their customers. Recommender systems aim to automatically generate personalized suggestions of products/services to customers (businesses or individuals). Although recommender systems have been well studied, there are still two challenges in the development of a recommender system, particularly in real-world B2B e-services: 1) items or user profiles often present complicated tree structures in business applications, which cannot be handled by normal item similarity measures and 2) online users’ preferences are often vague and fuzzy, and cannot be dealt with by existing recommendation methods. To handle both these challenges, this study first proposes a method for modeling fuzzy tree-structured user preferences, in which fuzzy set techniques are used to express user preferences. A recommendation approach to recommending tree-structured items is then developed. The key technique in this study is a comprehensive tree matching method, which can match two tree-structured data and identify their corresponding parts by considering all the information on tree structures, node attributes, and weights. ',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/saicheedepudi/Fuzzy-Preference-Model/assets/22156200/d48a46bd-9080-46a3-a9c1-0846f77418ef',
+          link: 'https://github.com/saicheedepudi/Fuzzy-Preference-Model/',
         },
       ],
     },
