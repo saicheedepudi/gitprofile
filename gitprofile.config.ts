@@ -120,20 +120,7 @@ const CONFIG = {
       description:'As the digital economy and society continue to grow, communities and individuals have a shot at improving their quality of life. However, not everybody is being able to participate in this digital age. Those on the wrong side of the divide are being left behind, prompting the creation of strategies to ensure everybody can reap the benefits of this new age. For creation of such strategies, we need to know the factors effecting the Internet facilities. Thanks to data from the U.S. Census Bureau American Community Survey (ACS) — a look at this dimension of digital inclusion is explored through looking at two broad indicators: type of internet subscription (or lack of) and device ownership (or lack of). It is important for us to understand what other factors may facilitate Internet development and it is achieved through correlation. With a better understanding of the various factors affecting Internet diffusion, it is hoped that developing countries will better target their efforts in reducing the digital divide and make the Internet a truly global information network, make all the regions truly CONNECTED with device.'
     },
   ],
-  // Display articles from your medium or dev account. (Optional)
-  blog: {
-    //source: 'dev', // medium | dev
-    //username: 'arifszn', // to hide blog section, keep it empty
-    //limit: 2, // How many articles to display. Max is 10.
-  },
-  googleAnalytics: {
-    //id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-  },
-  // Track visitor interaction and behavior. https://www.hotjar.com
-  hotjar: {
-    id: '',
-    snippetVersion: 6,
-  },
+
   themeConfig: {
     defaultTheme: 'dark',
 
