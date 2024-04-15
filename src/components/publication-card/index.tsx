@@ -120,7 +120,7 @@ const PublicationCard = ({
   return (
     <Fragment>
       <div className="col-span-1 lg:col-span-2">
-        <div className="grid grid-cols-2 gap-6">
+        <div className="grid">
           <div className="col-span-2">
             <div className="card compact bg-base-100 shadow bg-opacity-40">
               <div className="card-body">
