@@ -25,34 +25,13 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['saicheedepudi/gitprofile', 'saicheedepudi/TODO'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['saicheedepudi/gitprofile', 'saicheedepudi/TODO'],
       },
     },
-    external: {
-      header: 'My Projects',
-      // To hide the `External Projects` section, keep it empty.
-      projects: [
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-      ],
-    },
-  },
+    
+ 
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Saiprasanna Cheedepudi',
     description: '',
     imageURL: '',
   },
@@ -117,14 +96,6 @@ const CONFIG = {
       companyLink: 'https://opsramp.com',
     },
   ],
-  certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
-    },
-  ],
   educations: [
     {
       institution: 'Southern Illinois University',
@@ -150,11 +121,11 @@ const CONFIG = {
     },
   ],
   // Display articles from your medium or dev account. (Optional)
-  blog: {
+ // blog: {
     //source: 'dev', // medium | dev
     //username: 'arifszn', // to hide blog section, keep it empty
     //limit: 2, // How many articles to display. Max is 10.
-  },
+ // },
   googleAnalytics: {
     //id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
