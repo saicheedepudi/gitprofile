@@ -28,6 +28,40 @@ const CONFIG = {
         projects: ['saicheedepudi/gitprofile', 'saicheedepudi/TODO'],
       },
     },
+      external: {
+      header: 'My Projects',
+      // To hide the `External Projects` section, keep it empty.
+      projects: [
+        {
+          title: 'Federated learning and Differential Privacy in medical context: Phenomenal classification of Diabetic Retinopathy ',
+          description:
+            'In every corner of the world, people are facing lots of health complications and diseases and diabetic retinopathy disease is one of them. Deep learning is an effective means to assist an eye specialist to analyze the vast amount of retina images, which can potentially have a substantial role in streamlining and accelerating the diagnosis of diabetic retinopathy. These techniques require large datasets for training, and to use them, all the data must be centralized. Often, it is not possible to collect and share patient data on a centralized server due to medical data privacy regulations. Our work will present a collaborative federated learning framework capable of analyzing images using deep learning without sharing patient information between medical institutions. The dataset we are going to use consists of images and is classified into 5 classes as No Diabetic Retinopathy, Mild, Moderate, Severe, and Proliferative Diabetic Retinopathy (PDR). ',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
+        },
+        {
+          title: 'Fuzzy Preference Model',
+          description:
+            'Abstract—The Web creates excellent opportunities for businesses to provide personalized online services to their customers.
+Recommender systems aim to automatically generate personalized suggestions of products/services to customers (businesses
+or individuals). Although recommender systems have been well
+studied, there are still two challenges in the development of a
+recommender system, particularly in real-world B2B e-services:
+1) items or user profiles often present complicated tree structures in business applications, which cannot be handled by normal item similarity measures and 2) online users’ preferences
+are often vague and fuzzy, and cannot be dealt with by existing
+recommendation methods. To handle both these challenges, this
+study first proposes a method for modeling fuzzy tree-structured
+user preferences, in which fuzzy set techniques are used to express user preferences. A recommendation approach to recommending tree-structured items is then developed. The key technique in this study is a comprehensive tree matching method,
+which can match two tree-structured data and identify their
+corresponding parts by considering all the information on tree
+structures, node attributes, and weights. ',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://example.com',
+        },
+      ],
+    },
   },  
  
   seo: {
