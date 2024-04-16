@@ -106,14 +106,15 @@ const CONFIG = {
     'Gen AI',
   ],
   experiences: [
+    
     {
-     {
       company: 'Carmax',
       position: 'Data Scientist',
       from: 'May 2022',
       to: 'Present',
       companyLink: 'https://siu.edu',
     },
+    {
       company: 'Southern Illinois University',
       position: 'Research Assistant',
       from: 'Aug 2021',
