@@ -96,17 +96,29 @@ const CONFIG = {
     'HTML',
     'Azure',
     'AWS',
+    'GCP',
     'Tableau',
-    'Kafka',
+    'Power BI',
+    'MatLab',
+    'Django', 'LangChain',  'Flask', 'Fast API','CNN','Numpy', 'Pandas', 'Scikit-learn', 'Tensorflow', 'Pytorch', 'Pyspark', 'Hugging Face Transformers', 'NLP', 'LLM', 'OpenAI', 'LLaMa', 'LSTM', 'Chat GPT', 'BERT',  'Linear Regression', 'Logistic Regression', 'SVM', 'Random Forest', 'Decision Tree', 'K-Means', 'Forecasting', 'Reinforcement Learning', 'KNN', 'XGBoost', 'Bagging',
+    'Kafka','Seaborn', 'Matplotlib', 'Github Actions', 'Redis', 'Memchahce', 'Terraform', 'Heroku', 'Streamlit',  'GitLab', 'GitHub','Microservices','Multi Threading','GPU','Jupyter','Eclipse' 'Spyder', 'Google Colab',
+
     'Kibana',
     'Gen AI',
   ],
   experiences: [
     {
+     {
+      company: 'Carmax',
+      position: 'Data Scientist',
+      from: 'May 2022',
+      to: 'Present',
+      companyLink: 'https://siu.edu',
+    },
       company: 'Southern Illinois University',
       position: 'Research Assistant',
       from: 'Aug 2021',
-      to: 'Dec 2022',
+      to: 'May 2022',
       companyLink: 'https://siu.edu',
     },
     {
