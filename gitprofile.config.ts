@@ -37,8 +37,8 @@ const CONFIG = {
           description:
             'In every corner of the world, people are facing lots of health complications and diseases and diabetic retinopathy disease is one of them. Deep learning is an effective means to assist an eye specialist to analyze the vast amount of retina images, which can potentially have a substantial role in streamlining and accelerating the diagnosis of diabetic retinopathy. These techniques require large datasets for training, and to use them, all the data must be centralized. Often, it is not possible to collect and share patient data on a centralized server due to medical data privacy regulations. Our work will present a collaborative federated learning framework capable of analyzing images using deep learning without sharing patient information between medical institutions. The dataset we are going to use consists of images and is classified into 5 classes as No Diabetic Retinopathy, Mild, Moderate, Severe, and Proliferative Diabetic Retinopathy (PDR). ',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/saicheedepudi/Federated-learning-and-Differential-Privacy-in-medical-context-Diabetic-Retinopathy/assets/22156200/eb9068c2-edb8-4872-a542-d1f85a29522d',
+          link: 'https://github.com/saicheedepudi/Federated-learning-and-Differential-Privacy-in-medical-context-Diabetic-Retinopathy',
         },
         {
           title: 'Fuzzy Preference Model',
