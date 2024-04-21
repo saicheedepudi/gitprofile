@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/saicheedepudi/portfolio/blob/main/SaiCheedepudi_DataScientist.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
